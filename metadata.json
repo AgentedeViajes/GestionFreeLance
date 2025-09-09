@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Reservas Freelance",
+  "description": "Una aplicación para que los freelancers de turismo gestionen sus reservas, servicios, pagos y generen estados de cuenta en PDF.",
+  "requestFramePermissions": []
+}
